@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    
+    background-color: blue;
+
+}
+header > h1{
+    display: flex;
+    justify-content:end;
+    
+}
+img{
+   display: ;
+
+}
+#box{
+    background-color: gray;
+    width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+}
